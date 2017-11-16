@@ -1,0 +1,4 @@
+site_name: EdCast Documentation
+pages:
+    - xAPI: index.md
+    - Developer's API: about.md
